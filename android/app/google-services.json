@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "154003139332",
+    "project_id": "phone-auth-5e6bc",
+    "storage_bucket": "phone-auth-5e6bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154003139332:android:b45f7b4d1a11e10d0d3e51",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154003139332-f4a9b8lvb0ostb21prmvedsaucvn8k2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_auth",
+            "certificate_hash": "2acae503d810583894aa261fc6073674a8e3e3de"
+          }
+        },
+        {
+          "client_id": "154003139332-ujpi9u5da9bjl8ervguj6s6glhr6sqbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_auth",
+            "certificate_hash": "ed63847c288ed91b9bdb0b1928afdf261e00ca0c"
+          }
+        },
+        {
+          "client_id": "154003139332-74bh9759hgu908dk36hb4b0h51sa3fn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiUsOxVzI0VBoCYrCp6zL0qJbY64YNAcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154003139332-74bh9759hgu908dk36hb4b0h51sa3fn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154003139332-l3sh8t0p3t7j3bejfne05tlrpi4120aj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phoneAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154003139332:android:b58b61e46c02c97d0d3e51",
+        "android_client_info": {
+          "package_name": "com.example.quantum_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154003139332-74bh9759hgu908dk36hb4b0h51sa3fn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiUsOxVzI0VBoCYrCp6zL0qJbY64YNAcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154003139332-74bh9759hgu908dk36hb4b0h51sa3fn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154003139332-l3sh8t0p3t7j3bejfne05tlrpi4120aj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phoneAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
