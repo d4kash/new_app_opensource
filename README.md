@@ -19,8 +19,11 @@ A news app built with flutter and news api endpoint.
 | [Connectivity_Plus]()                                      | For Realtime Internet COnnectivity
 
 
-![Login Screen][(https://drive.google.com/file/d/19XcZ5ZLAEEF2WOVNFffa0xrx_-WIDSPq/view?usp=drive_link)]
-![Open News][(https://drive.google.com/file/d/1aiJHRL22BLjDGN9UZ2IJ2jl3m_DMhQJ_/view?usp=drive_link)]
+
+<p align="center">
+    <img src="assets\open_news.jpeg" width="400">
+    <img src="assets\open_news_login.jpeg" width="400"> 
+   </p>
 
 ## WATCH VIDEO
 <a href= 'https://drive.google.com/file/d/1aGBmlbYq6ohNVdzum1JKQZdxaKRqhtcH/view?usp=drive_link'> Click to watch </a>
