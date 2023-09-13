@@ -3,6 +3,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
+import 'package:news_app/auth/presentation/email_auth/LoginScree.dart';
 import 'package:news_app/constants/animated_page_route.dart';
 import 'package:news_app/general_news/presentation/home_page.dart';
 
@@ -82,6 +83,39 @@ class _AuthScreenState extends State<AuthScreen> {
               style: TextStyle(
                 fontSize: 36,
                 fontWeight: FontWeight.bold,
+              ),
+            ),
+            Padding(
+              padding: const EdgeInsets.symmetric(
+                horizontal: 10,
+                vertical: 20,
+              ),
+              child: ElevatedButton(
+                onPressed: () async {
+                    Navigator.push(
+          context,
+          CustomPageRoute(
+              transitionDuration:const Duration(milliseconds: 700),
+              child: const LoginScreen(),
+              // child: HomeScreen(),
+              begin:const Offset(-1, 0)));
+                },
+                style: ButtonStyle(
+                  backgroundColor: MaterialStateProperty.all(
+                    Colors.black,
+                  ),
+                  padding: MaterialStateProperty.all(
+                    EdgeInsets.symmetric(
+                      vertical: 12,
+                    ),
+                  ),
+                ),
+                child: const Text(
+                  "Email Login",
+                  style: TextStyle(
+                    fontSize: 20,
+                  ),
+                ),
               ),
             ),
             Padding(

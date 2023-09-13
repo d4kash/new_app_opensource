@@ -7,6 +7,7 @@ import 'package:news_app/general_news/controller/get_news_controller.dart';
 import 'package:news_app/general_news/models/news_model.dart';
 import 'package:news_app/general_news/widgets/newsContainerWidget.dart';
 import 'package:news_app/general_news/widgets/shimmerWIdget.dart';
+import 'package:news_app/widgets/appBar.dart';
 
 class HomeScreen extends StatefulWidget {
   HomeScreen({Key? key}) : super(key: key);
@@ -57,6 +58,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBarScreen(title: "Open News"),
         body: SafeArea(
       child: FutureBuilder(
         future: controller.fetchNews(),

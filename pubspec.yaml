@@ -33,7 +33,6 @@ flutter:
   assets:
      - .env
      - assets/images/
-     - assets/images/screenshot/
      - assets/json/
  
 
