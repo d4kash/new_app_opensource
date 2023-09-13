@@ -21,8 +21,8 @@ A news app built with flutter and news api endpoint.
 
 
 <p align="center">
-    <img src="assets\open_news.jpeg" width="400">
     <img src="assets\open_news_login.jpeg" width="400"> 
+    <img src="assets\open_news.jpeg" width="400">
    </p>
 
 ## WATCH VIDEO
