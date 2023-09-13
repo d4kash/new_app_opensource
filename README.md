@@ -26,7 +26,7 @@ A news app built with flutter and news api endpoint.
    </p> -->
 
 ## WATCH VIDEO
-<a href= ''> Click to watch </a>
+<a href= 'https://drive.google.com/file/d/1aGBmlbYq6ohNVdzum1JKQZdxaKRqhtcH/view?usp=drive_link'> Click to watch </a>
 
 ## 🤓 Author(s)
 
