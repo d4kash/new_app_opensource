@@ -19,14 +19,14 @@ A news app built with flutter and news api endpoint.
 | [Connectivity_Plus]()                                      | For Realtime Internet COnnectivity
 
 
-<!-- <p align="center">
-    <img src="assets\images\screenshot\sc.gif" width="400">
-    <img src="assets\images\screenshot\s1.gif" width="400"> 
-    <img src="assets\images\screenshot\s2.gif" width="400">
-   </p> -->
+
+<p align="center">
+    <img src="assets\open_news_login.jpeg" width="400"> 
+    <img src="assets\open_news.jpeg" width="400">
+   </p>
 
 ## WATCH VIDEO
-<a href= ''> Click to watch </a>
+<a href= 'https://drive.google.com/file/d/1aGBmlbYq6ohNVdzum1JKQZdxaKRqhtcH/view?usp=drive_link'> Click to watch </a>
 
 ## 🤓 Author(s)
 
