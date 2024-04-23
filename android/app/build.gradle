@@ -27,7 +27,8 @@ apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
-    compileSdkVersion 33
+    namespace "com.example.quantum_app"
+    compileSdkVersion 34
     ndkVersion flutter.ndkVersion
 
     compileOptions {

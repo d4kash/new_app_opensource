@@ -13,7 +13,7 @@ import 'package:news_app/network/connectivity_controller.dart';
 
 
 
-class AppBarScreen extends StatefulWidget with PreferredSizeWidget {
+class AppBarScreen extends StatefulWidget implements PreferredSizeWidget {
   @override
   final Size preferredSize;
   final String title;
